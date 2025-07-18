@@ -6,6 +6,7 @@ Created by Udhaya A
 This repository contains a Power BI dashboard project that provides a detailed and interactive analysis of the India General Elections – 2024. The goal is to offer a comprehensive visual understanding of the election outcomes through various KPIs, maps, charts, and drill-down features across national, state, and constituency levels.
 
 🧭 Navigation - Dashboards Included
+
 1️⃣ Overview Analysis
 Seat distribution among:
 
